@@ -7,7 +7,8 @@ tag:
 - maths
 category: blog
 author: spencerhaney
-description: 
+description: desc
+katex: true
 ---
 
 ## Introduction
