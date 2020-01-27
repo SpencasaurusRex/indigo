@@ -102,6 +102,9 @@ compress_html:
         - development
         - stage
 
+plugins:
+    - jekyll-katex
+
 exclude:
     - "travis.sh"
     - "Rakefile"

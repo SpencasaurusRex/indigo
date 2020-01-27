@@ -10,4 +10,9 @@ author: spencerhaney
 description: 
 ---
 
-## This is just a test :3
+## Introduction
+If you've done any game development, you've likely used recursive formulas, whether you realize it or not. Recursive formulas are a handy tool in the belt of any programmer.
+
+{% katex display %}
+c = \pm\sqrt{a^2 + b^2}
+{% endkatex %}
