@@ -1,16 +1,13 @@
 ---
-title: "Markdown Extra Components"
+title: "Introduction to Recursive Sequences"
 layout: post
-date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
+date: 2020-01-26 12:00
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- maths
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: spencerhaney
+description: 
 ---
 
 ## Summary:
